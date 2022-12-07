@@ -35,9 +35,4 @@ Listes Product
 
 
 
-Product Repository
- 
-Inventory Service Application
-	 
-Listes Product
 
